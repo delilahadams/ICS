@@ -1,0 +1,18 @@
+Overwatch dive bot
+
+Program start
+Wait untill team fight starts...
+Are teammates alive?
+    (Yes.) Continue 
+    (No.) Exit from teamfight, regroup, and restart program.
+Are more than 0 enemies vulnerable?
+    (Yes) Enter name of best target three times.
+    (No.) Wait untill there are and restart program.
+Use movement abilities to attack target with team.
+Did you die during the fight?
+(Yes.) Restart program and consider what mistakes lead to this outcome.
+(No.) Nice!
+Has your team won the fight yet?
+(Yes.) Capture objective and restart program.
+(No.) Restart program.
+
