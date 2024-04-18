@@ -1,0 +1,7 @@
+while(in stage)
+    GetUserImput()
+        if(UpShiftButton && actionKey < 5)
+            actionKey++
+        elseIf(DownShiftButton && actionKey > 1)
+            actionKey--
+    output(actionKey)
